@@ -2,3 +2,5 @@ this is a chat application
 emogi
 type option 
 colors
+dark mode
+video
